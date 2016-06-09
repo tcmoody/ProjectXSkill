@@ -27,15 +27,27 @@ User details for registration? (email, phone number, etc)
 INTENTS:
 
 (1)Launch
+
 	(a)override the onLaunch function
+
 	(b)send device id to backend
+
 	(c)if device is registered -> request intent
+
 	(d)if device is not registered -> registration intent
+
 (2)Request
+
 	(a)hit the backend to register the request
+
 	(b)echo thanks user for request
+
 	(c)close projectX
+
 (3)Registration
+
 	(a)get registrationID from backend
+
 	(b)echo communicates said ID to user
+	
 	(c)close projectX
