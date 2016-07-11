@@ -1,5 +1,5 @@
 var request = require('request');
-var url = "http://projectx-env.9ejcy7gdfj.us-west-2.elasticbeanstalk.com";
+var url = "http://callmyguardian.com";
 // var url = "http://localhost:3000"
 
 
